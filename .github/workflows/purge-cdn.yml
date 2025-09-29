@@ -9,4 +9,4 @@ jobs:
     steps:
     - name: Purge jsDelivr cache
       run: |
-        curl -X POST "https://purge.jsdelivr.net/gh/${{ github.repository }}/*"
+        curl "https://purge.jsdelivr.net/gh/${{ github.repository }}@latest"
