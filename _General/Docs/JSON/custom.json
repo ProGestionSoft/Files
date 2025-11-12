@@ -1,4 +1,7 @@
 {
+  "axiom": {
+    "url": "https://pgs-axiom.netlify.app/"
+  },
   "eqt": {
     "url": "https://eqt.netlify.app/"
   },
