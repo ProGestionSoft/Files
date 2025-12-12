@@ -1,17 +1,26 @@
 {
   "axiom": {
-    "url": "https://pgs-axiom.netlify.app/"
+    "url": "https://pgs-axiom.netlify.app"
+  },
+  "doc": {
+    "url": "https://pgsdocs.netlify.app"
   },
   "eqt": {
-    "url": "https://eqt.netlify.app/"
+    "url": "https://eqt.netlify.app"
   },
   "hire": {
-    "url": "https://hire-suitops.netlify.app/"
-  } ,
+    "url": "https://hire-suitops.netlify.app"
+  },
   "pgs": {
     "url": "https://progestionsoft.netlify.app"
   },
+  "space": {
+    "url": "https://pgs-user.netlify.app"
+  },
   "suitops": {
     "url": "https://suitops.netlify.app"
+  },
+  "web": {
+    "url": "https://web.pgs.ctrlengine.com"
   }
 }
